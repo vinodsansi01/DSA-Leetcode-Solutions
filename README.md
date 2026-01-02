@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
