@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -67,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
