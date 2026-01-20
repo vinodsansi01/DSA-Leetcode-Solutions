@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vinodsansi01/DSA-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vinodsansi01/DSA-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vinodsansi01/DSA-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vinodsansi01/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vinodsansi01/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinodsansi01/DSA-Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinodsansi01/DSA-Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
