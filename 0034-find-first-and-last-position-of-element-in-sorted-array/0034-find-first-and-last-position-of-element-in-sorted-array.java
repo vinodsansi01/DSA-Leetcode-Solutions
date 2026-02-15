@@ -19,10 +19,9 @@ class Solution {
 
         }
 
-
         // Last Occurrence of a Target
 
-       start = 0;
+        start = 0;
         end = nums.length - 1;
 
          while(start <= end){
